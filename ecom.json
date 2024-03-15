@@ -1,0 +1,26 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"apple",
+            "price":500000
+        },
+        {
+            "id":2,
+            "name":"one plus",
+            "price":400000
+        }
+    ],
+    "orders":[
+        {
+            "id":1,
+            "date":"10/10/2023",
+            "total":100
+        },
+        {
+            "id":2,
+            "date":"10/11/2023",
+            "total":1001
+        }
+    ]
+}
